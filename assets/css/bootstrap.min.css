@@ -60,8 +60,14 @@
 		color: #FFF;
 	}
 	
+	.rcorners {
+    border-radius: 10px;
+	}
+	
 /*extra space*/
 	sp {
 		margin-top:10px;
 		margin-bottom:10px
 	}
+	
+	
